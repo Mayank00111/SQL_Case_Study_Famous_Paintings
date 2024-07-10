@@ -12,6 +12,11 @@ Famous paintings and their artists. This data set is taken from Kaggle and datas
 #work.csv
 
 #tfq_paintings.iypnb is python file which is used in this project to import the data directly with the help of jupyter notebook.
+
+
 #Data can be imported through other ways but it is imported through python because is it is layman way to export the data with connection made.
+
+
+#tfq_paintings.sql is an .sql where detailed anlysis is done and question solved throughly.
 
 
